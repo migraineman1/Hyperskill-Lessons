@@ -1,5 +1,5 @@
 name: hello_workflow
-on: [push]
+# on: [push]
 jobs:
   print-hello:
     runs-on: ubuntu-latest
